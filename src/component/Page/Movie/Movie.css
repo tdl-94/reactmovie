@@ -1,0 +1,12 @@
+.button {
+    width: 20%;
+    border: none;
+    background-color: yellow;
+    border-radius: 20px;
+    margin: 100px 0 ;
+}
+.showmore {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

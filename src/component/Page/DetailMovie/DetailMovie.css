@@ -1,0 +1,38 @@
+.info {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+.info p {
+  color: #fff;
+}
+.rate {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  color: white;
+  width: 100%;
+}
+.number-rate {
+  border: 1px solid yellow;
+  border-radius: 50%;
+  width: 60px;
+  height: 60px;
+  line-height: 60px;
+  font-size: 15px;
+  text-align: center;
+  color: yellow;
+}
+.playtrailer {
+  border: 1px solid #fff;
+  color: white;
+  width: calc(100% -20px);
+  display: flex;
+  align-items: center;
+  padding-left: 10px;
+}
+.button-playtrailer {
+  background-color: transparent;
+  border: none;
+  width: 100%;
+}
